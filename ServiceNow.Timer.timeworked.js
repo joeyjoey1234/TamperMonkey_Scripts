@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ServiceNow.Timer.Refresh.w/Button.Manual.IFrame.Refresh.(gsft_main)
+// @name         ServiceNow.Timer.timeworked.js
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Tracks timeworked and adds it automatically.
