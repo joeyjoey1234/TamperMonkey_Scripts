@@ -5,6 +5,7 @@
 // @description  Tracks timeworked and adds it automatically.
 // @author       joejoe1234#6650
 // @match        https://*.service-now.com/incident.do*
+// @match        https://*.service-now.com/sc_req_item.do*
 // @require http://code.jquery.com/jquery-3.4.1.min.js
 // @require https://raw.githubusercontent.com/Lexxus/jq-timeTo/master/jquery.time-to.min.js
 // ==/UserScript==
